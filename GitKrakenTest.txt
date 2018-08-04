@@ -1,0 +1,3 @@
+Git Kraken Test
+GitHub repo kurulumu yapıldı.
+Commit işlemi ile bu değişiklik GitKraken kullanılarak GitHub üzerine gönderilecek
